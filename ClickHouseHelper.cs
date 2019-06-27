@@ -13,7 +13,6 @@ using System.Data;
 using System.Reflection;
 using System.Threading;
 using ClickHouse.Ado;
-using NetTopologySuite.IO;
 
 namespace Kafka2ClickHouse.Core
 {
