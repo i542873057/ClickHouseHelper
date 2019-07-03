@@ -1,8 +1,8 @@
 # ClickHouseHelper
 a clickhouse helper class to make operate data easy
 
->base on ClickHouse.Ado
+>base on [ClickHouse.Net](https://github.com/ilyabreev/ClickHouse.Net)
 
-> my blog 
+> my blog [Jump To](http://www.shaojianan.cn/)
 
-[www.shaojianan.cn](http://www.shaojianan.cn/)
+
