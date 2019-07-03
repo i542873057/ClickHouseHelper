@@ -1,9 +1,7 @@
 # ClickHouseHelper
 a clickhouse helper class to make operate data easy
 
->base on 
-
-# ClickHouse.Ado
+>base on ClickHouse.Ado
 
 > my blog 
 
